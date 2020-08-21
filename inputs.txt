@@ -1,0 +1,27 @@
+# Input File for C2VSimFG_MapHeads.py
+# Nodes File
+C:\Users\thatch\Desktop\C2VSimFG\C2VSimFG_v0.3.21\Preprocessor\C2VSimFG_Nodes.dat
+
+# number of lines in nodes file to skip
+90
+
+# column names for nodes file (comma-separated)
+NodeID,X,Y
+
+# Stratigraphy File
+C:\Users\thatch\Desktop\C2VSimFG\C2VSimFG_v0.3.21\Preprocessor\C2VSimFG_Stratigraphy.dat
+
+# number of lines in stratigraphy file to skip
+105
+
+# column names for stratigraphy file (comma-separated)
+NodeID,GSE,A1,L1,A2,L2,A3,L3,A4,L4
+
+# Heads Out File
+S:\SGMBranch\29_C2VSim\QAQC\C2VSimFG_rev\Results\C2VSimFG_GW_HeadAll.out
+
+# Heads Out CSV File
+C2VSimFG_GW_HeadsAll_rev.csv
+
+# Output PDF name
+GroundwaterHead_rev.pdf
